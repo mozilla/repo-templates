@@ -1,4 +1,5 @@
-# Draft
+#REPORTING.MD
+This document provides high-level information, for understanding and reporting violations of Mozilla's Community Participation Guidelines.
 
 
 [From the Community Participation Guidlines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
