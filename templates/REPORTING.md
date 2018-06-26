@@ -1,4 +1,4 @@
-#REPORTING.MD
+# REPORTING.MD
 This document provides high-level information, for understanding and reporting violations of Mozilla's Community Participation Guidelines.
 
 
