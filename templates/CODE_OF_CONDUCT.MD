@@ -11,4 +11,4 @@ For more information on how to report violations of the CPG, please read our '[H
 ## Project Specific Etiquette
 
 In some cases, there will be additional project etiquette i.e.: (https://bugzilla.mozilla.org/page.cgi?id=etiquette.html).
-Please add yours here.
+Please update for your project.
